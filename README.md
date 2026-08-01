@@ -21,7 +21,7 @@ A full-stack AI chat application powered by Google Gemini, with secure authentic
 
 ## 📖 Overview
 
-**AMC Assistant** is an AI-powered chat application built with the MERN stack. Users sign in securely with Clerk, start new conversations, and get intelligent responses from Google's Gemini model — with every conversation saved to MongoDB so users can revisit past chats anytime.
+**AMC Assistant** is an AI-powered chat application built with the MERN stack. Users sign in securely with Clerk, start new conversations, and get intelligent responses from Google's Gemini model with every conversation saved to MongoDB so users can revisit past chats anytime.
 
 ## ✨ Features
 
@@ -159,6 +159,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-Built with ❤️ by riyascodeX — feel free to connect!
+Built with ❤️ by riyascodeX feel free to connect!
 
 </div>
